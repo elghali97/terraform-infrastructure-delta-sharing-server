@@ -17,6 +17,9 @@
 *.tfstate
 *.tfstate.*
 
+# share files
+*.share
+
 # Crash log files
 crash.log
 crash.*.log
