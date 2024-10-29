@@ -17,4 +17,4 @@ This repository implements specific feature to access data using delta sharing f
 
 
 ## Diagram 
-![Architecture Diagram](https://github.com/databricks/terraform-databricks-sra/blob/main/diagram.png)
+![Architecture Diagram](https://github.com/elghali97/terraform-infrastructure-delta-sharing-server/blob/master/diagram.png)
